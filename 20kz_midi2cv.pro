@@ -1,4 +1,4 @@
-update=miércoles, 20 '20e' septiembre '20e' 2017, 15:50:06
+update=21/09/2017 7:56:07
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,4 +59,3 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
-LibName31=/Users/juanda/kicad-lib/libraries/DAC
